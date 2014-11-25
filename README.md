@@ -6,3 +6,8 @@ built for musicians who don't know how to read music notes. They will be able to
 Language
 ========
 * Java
+* 
+
+External tools
+==============
+* itextpdf [http://itextpdf.com/]
